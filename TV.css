@@ -1,0 +1,34 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#details
+{
+    font-size: 20px;
+    color: palevioletred;
+    background-color: aquamarine;
+}
+
+canvas
+{
+    border-color: aqua;
+    box-shadow: skyblue;
+}
+
+.back
+{
+    float: right;
+    background-color: cornsilk;
+    color: crimson;
+    text-shadow: 5px;
+    size: 10px;
+}
